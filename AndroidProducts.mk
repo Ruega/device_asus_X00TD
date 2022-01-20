@@ -5,8 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_X00TD.mk
+    $(LOCAL_DIR)/awaken_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_X00TD-userdebug
+    awaken_X00TD-user \
+    awaken_X00TD-userdebug \
+    awaken_X00TD-eng
 
