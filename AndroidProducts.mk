@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/radiant_X00TD.mk
+    $(LOCAL_DIR)/bootleg_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    radiant_X00TD-user \
-    radiant_X00TD-userdebug \
-    radiant_X00TD-eng
+    bootleg_X00TD-user \
+    bootleg_X00TD-userdebug \
+    bootleg_X00TD-eng
 
